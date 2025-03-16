@@ -1,1 +1,1 @@
-Just testing coding with AI. Don't expect this to be funtional
+Just testing coding with AI. Don't expect this to be functional
